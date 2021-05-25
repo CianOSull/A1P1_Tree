@@ -13,7 +13,7 @@ This operation receives as an input a key, and returns the amount of nodes in th
 4. public int my_find_node_at_level(T1 key);<br />
 This operation receives as an input a key, and returns the level were the node is located.
 
-Exercise: Implement the 4 methods in the class myBinarySearchTreeImpl.java usingrecursion. Note that the methods that have a key as input, must use the advantages of binary search trees by exploring only the right subtree or the left subtree in case that the othersubtree can be discarded. Note: You can reuse any of the other 16 defined operations if you want.
+Exercise: Implement the 4 methods in the class myBinarySearchTreeImpl.java using recursion. Note that the methods that have a key as input, must use the advantages of binary search trees by exploring only the right subtree or the left subtree in case that the othersubtree can be discarded. Note: You can reuse any of the other 16 defined operations if you want.
  
 **Background**:<br />
 The Abstract Data Type (ADT) myBinarySearchTrees<T1, T2> allows to store nodes with the 
